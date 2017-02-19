@@ -1,2 +1,2 @@
 # IQD
-爱前端 start 2016.3.20
+iqd start 2016.3.20
